@@ -1,2 +1,2 @@
-Upload first udacity project.
-Titanic 
+# Upload first udacity project.
+Check out file: titanic_survival_exploration.html
